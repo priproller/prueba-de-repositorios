@@ -10,3 +10,9 @@ El proyecto se desarrollará progresivamente, priorizando la seguridad y la recu
 ## Estado del proyecto
 
 Proyecto en fase inicial de organización y documentación.
+
+## Funciones que tendrá mi app
+
+- Organizar archivos por fecha y hora para encontrarlos fácilmente.
+- Permitir acceder a los archivos desde diferentes ubicaciones.
+- Proteger la información mediante copias de seguridad y detectar modificaciones sospechosas.
