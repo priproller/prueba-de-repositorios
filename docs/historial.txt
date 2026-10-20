@@ -1,0 +1,18 @@
+    1  cd Desktop/
+    2  cd trabajos\ de\ git/
+    3  git init
+    4  mkdir -p docs src
+    5  touch README.md .gitignore docs/idea.md docs/estructura.txt docs/historial.txt src/app.py
+    6  git status
+    7  git add README.md .gitignore src/app.py
+    8  git commit -m "chore: crea la estructura inicial del proyecto"
+    9  git log --oneline
+   10  git add docs/idea.md
+   11  git commit -m "docs: documenta la idea de la aplicacion"
+   12  git log --oneline
+   13  git add README.md \ 
+   14  git add README.md git commit -m "docs: agrega el estado inicial del proyecto"
+   15  git add README.md && git commit -m "docs: agrega el estado inicial del proyecto"
+   16  git log --oneline
+   17  ls -R > docs/estructura.txt
+   18  history > docs/historial.txt
